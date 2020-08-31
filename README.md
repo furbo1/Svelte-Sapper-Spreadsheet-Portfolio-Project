@@ -1,7 +1,7 @@
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
-![Alt text](https://github.com/furbo1/Svelte-Sapper-Spreadsheet-Portfolio-Project)
+![Alt Text](https://github.com/furbo1/Svelte-Sapper-Spreadsheet-Portfolio-Project)
 
 
 ## Getting started
