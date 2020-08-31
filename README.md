@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/furbo1/Svelte-Sapper-Spreadsheet-Portfolio-Project).
+![Alt Text](https://github.com/furbo1/Svelte-Sapper-Spreadsheet-Portfolio-Project.png).
 
 Svelte + Sapper Spreadsheet Project
 
